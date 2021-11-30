@@ -273,6 +273,19 @@
       "phone": "01434-734867",
       "email": "cpince@pince.co.uk",
       "web": "http://www.mcallistermurphypc.co.uk"
+    },
+    {
+      "id": 22,
+      "first_name": "Sean",
+      "last_name": "Schurman",
+      "company_name": "Cooper Electric Supply Co",
+      "address": "2877 Grain St",
+      "city": "Caversham Ward",
+      "county": "Berkshire",
+      "postal": "RG4 5DE",
+      "phone": "01423-385669",
+      "email": "sean.schurman@schurman.co.uk",
+      "web": "http://www.cooperelectricsupplyco.co.uk"
     }
   ]
 }
